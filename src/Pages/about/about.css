@@ -1,0 +1,96 @@
+.container{
+    width: 100px;
+}
+.abouth1{ 
+    margin-left: 50%;
+    background-color: aqua;
+    text-align: center;
+}
+.abouth2{
+    position: absolute;
+    margin-left: 41%;
+    padding-top: 172px;
+    padding-bottom: 144px;
+    background-color: hotpink;
+    text-align: center;
+}
+.abouth3{
+    position: absolute;
+    margin-left: 41.5%;
+    width: 680px;
+    padding-right: 30px;
+    padding-top: 172px;
+    padding-bottom: 171px;
+    background-color: hotpink;
+    text-align: center;
+}
+.aboutinfo{
+    height: 400px;
+}
+
+
+.aboutimg{
+    background-color: violet;
+    float:  left;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+}
+
+.container2{
+    position: relative;
+    float: left;
+}
+
+
+.Text1{
+    position: absolute;
+    transform: rotate(-90deg);
+    margin: 135px 0px 0px -135px;
+    width: 450px;
+    height: 180px;
+    font-size: 50px;
+    background-color: aqua;
+    text-align: center;
+ 
+  }
+
+
+.container3{
+    position: absolute;
+    top: 500px;
+    bottom: 500px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+
+
+.container4{
+    position: relative;
+    top: 500px;
+}
+
+.Text2{
+    position: absolute;
+    transform: rotate(90deg);
+    width: 450px;
+    height: 180px;
+    font-size: 300%;
+    background-color: rgb(237, 81, 81);
+    text-align: center;
+    margin: -365px 0px 0px 893px;
+
+ 
+  }
+
+.aboutp{
+    font-size: 23px;
+    margin-top: 20px;
+    margin-left: -20px;
+}
+.section2{
+    position: relative;
+    top: 450px;
+}

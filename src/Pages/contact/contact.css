@@ -1,0 +1,64 @@
+.contactus {
+  height: 577px;
+  margin: -58px -8px -9px -7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://i.pinimg.com/736x/86/1d/8e/861d8e76b8e796f40fb8d4b8e8cdba40.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .contactTitle {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  .error{
+    color: red;
+    margin-left: 0px;
+    display: inline-block;
+  }
+  .contactForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contactForm > label {
+    margin: 10px 0;
+  }
+  
+  .contactInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .contactInput:focus {
+    outline: none;
+  }
+  
+  .contactusButton {
+    margin-top: 20px;
+    cursor: pointer;
+    width: 100px;
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+  }
+  .div1{
+    display: flex;
+    align-items: flex-end;
+  }

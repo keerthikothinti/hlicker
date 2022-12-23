@@ -1,0 +1,166 @@
+{
+  "users": [
+    {
+      "username": "Harika",
+      "email": "harika.l0214@gmail.com",
+      "password": "1234567",
+      "phnumber": "9014554711",
+      "id": 1
+    },
+    {
+      "username": "Harika Lingamsetty",
+      "email": "harika.l20@iiits.in",
+      "password": "123456",
+      "phnumber": "9014554711",
+      "id": 2
+    },
+    {
+      "username": "Lalith",
+      "email": "lalithkumar.g20@iiits.in",
+      "password": "wastefellowharika",
+      "phnumber": "9014554711",
+      "id": 3
+    },
+    {
+      "username": "Lalith",
+      "email": "lalithkumar.g20@iiits.in",
+      "password": "asdf",
+      "phnumber": "9014554711",
+      "id": 4
+    },
+    {
+      "username": "Lalith",
+      "email": "lalith.g20@iiits.in",
+      "password": "asdf",
+      "phnumber": "9014554711",
+      "id": 5
+    },
+    {
+      "username": "Lalith",
+      "email": "lalith.g20@iiits.in",
+      "password": "abcd",
+      "phnumber": "9014554711",
+      "id": 6
+    },
+    {
+      "username": "Harika",
+      "email": "harika.l0214@gmail.com",
+      "password": "1234",
+      "phnumber": "9014554711",
+      "id": 7
+    },
+    {
+      "username": "sai",
+      "email": "sai@gmail.com",
+      "password": "1234567",
+      "phnumber": "9848325116",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "file": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "title": "Beauty of nature",
+      "name": "sai",
+      "tag": "nature",
+      "desc": "Nature has given us so much that we cannot even imagine. Life on this earth is possible only because of nature. There are many other planets in the universe but without this nature life is not possible there. Thus nature is the basis of our life. Nature is not the same everywhere on earth.",
+      "id": 1
+    },
+    {
+      "file": "https://www.tripsavvy.com/thmb/eci8IaTDsNh11uzbGUu_Pkt7_yU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg",
+      "title": "On the road of life",
+      "name": "sai",
+      "tag": "nature",
+      "desc": "This got my dreaming about a long, refreshing bike ride. Just the thought of it made me happy for a moment. I discussed with few friends about the ride and they agreed to join me, as we had 2 days off due to Dussehra festival. We applied for E-pass as it was mandatory to enter tourist places.",
+      "id": 2
+    },
+    {
+      "file": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "title": "Beauty of nature",
+      "name": "Harika",
+      "tag": "nature",
+      "desc": "Nature has given us so much that we cannot even imagine. Life on this earth is possible only because of nature. There are many other planets in the universe but without this nature life is not possible there. Thus nature is the basis of our life. Nature is not the same everywhere on earth.",
+      "id": 3
+    },
+    {
+      "file": "https://www.tripsavvy.com/thmb/eci8IaTDsNh11uzbGUu_Pkt7_yU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg",
+      "title": "On the road of life",
+      "name": "Harika",
+      "tag": "nature",
+      "desc": "This got my dreaming about a long, refreshing bike ride. Just the thought of it made me happy for a moment. I discussed with few friends about the ride and they agreed to join me, as we had 2 days off due to Dussehra festival. We applied for E-pass as it was mandatory to enter tourist places.",
+      "id": 4
+    },
+    {
+      "file": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "title": "Beauty of nature",
+      "name": "Harika",
+      "tag": "nature",
+      "desc": "Nature has given us so much that we cannot even imagine. Life on this earth is possible only because of nature. There are many other planets in the universe but without this nature life is not possible there. Thus nature is the basis of our life. Nature is not the same everywhere on earth.",
+      "id": 5
+    },
+    {
+      "file": "https://www.tripsavvy.com/thmb/eci8IaTDsNh11uzbGUu_Pkt7_yU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg",
+      "title": "On the road of life",
+      "name": "sai",
+      "tag": "nature",
+      "desc": "This got my dreaming about a long, refreshing bike ride. Just the thought of it made me happy for a moment. I discussed with few friends about the ride and they agreed to join me, as we had 2 days off due to Dussehra festival. We applied for E-pass as it was mandatory to enter tourist places.",
+      "id": 6
+    },
+    {
+      "file": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "title": "Beauty of nature",
+      "name": "sai",
+      "tag": "nature",
+      "desc": "Nature has given us so much that we cannot even imagine. Life on this earth is possible only because of nature. There are many other planets in the universe but without this nature life is not possible there. Thus nature is the basis of our life. Nature is not the same everywhere on earth.",
+      "id": 7
+    },
+    {
+      "file": "https://www.tripsavvy.com/thmb/eci8IaTDsNh11uzbGUu_Pkt7_yU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg",
+      "title": "On the road of life",
+      "name": "sai",
+      "tag": "nature",
+      "desc": "This got my dreaming about a long, refreshing bike ride. Just the thought of it made me happy for a moment. I discussed with few friends about the ride and they agreed to join me, as we had 2 days off due to Dussehra festival. We applied for E-pass as it was mandatory to enter tourist places.",
+      "id": 8
+    },
+    {
+      "file": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "title": "Beauty of nature",
+      "name": "Harika",
+      "tag": "nature",
+      "desc": "Nature has given us so much that we cannot even imagine. Life on this earth is possible only because of nature. There are many other planets in the universe but without this nature life is not possible there. Thus nature is the basis of our life. Nature is not the same everywhere on earth.",
+      "id": 9
+    },
+    {
+      "file": "https://www.tripsavvy.com/thmb/eci8IaTDsNh11uzbGUu_Pkt7_yU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg",
+      "title": "On the road of life",
+      "name": "Harika",
+      "tag": "nature",
+      "desc": "This got my dreaming about a long, refreshing bike ride. Just the thought of it made me happy for a moment. I discussed with few friends about the ride and they agreed to join me, as we had 2 days off due to Dussehra festival. We applied for E-pass as it was mandatory to enter tourist places.",
+      "id": 10
+    },
+    {
+      "file": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "title": "Beauty of nature",
+      "name": "Harika",
+      "tag": "nature",
+      "desc": "Nature has given us so much that we cannot even imagine. Life on this earth is possible only because of nature. There are many other planets in the universe but without this nature life is not possible there. Thus nature is the basis of our life. Nature is not the same everywhere on earth.",
+      "id": 11
+    },
+    {
+      "file": "https://www.tripsavvy.com/thmb/eci8IaTDsNh11uzbGUu_Pkt7_yU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg",
+      "title": "On the road of life",
+      "name": "sai",
+      "tag": "nature",
+      "desc": "This got my dreaming about a long, refreshing bike ride. Just the thought of it made me happy for a moment. I discussed with few friends about the ride and they agreed to join me, as we had 2 days off due to Dussehra festival. We applied for E-pass as it was mandatory to enter tourist places.",
+      "id": 12
+    }
+  ],
+  "qs": [
+    {
+      "username": "Harika",
+      "email": "harika.1402hyd@gmail.com",
+      "query": "i am not able to upload a picture.",
+      "id": 1
+    }
+  ]
+}
